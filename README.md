@@ -33,3 +33,18 @@ react(v16) + react-router(v4.2) + webpack(v3.8) + ES6 + Fetch + antd
 
 ## 预览
 
+pc端主页：
+![](https://github.com/Fueling-psx/WebNews-react/blob/master/screenshot/pc_1.PNG?raw=true)
+
+登录注册模块:
+![](https://github.com/Fueling-psx/WebNews-react/blob/master/screenshot/pc_2.PNG?raw=true)
+
+移动端:
+
+![](https://github.com/Fueling-psx/WebNews-react/blob/master/screenshot/mobile_1.PNG?raw=true)
+
+
+
+
+
+
